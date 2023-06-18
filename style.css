@@ -182,7 +182,7 @@ body{
 }
 
 .btn-box a:nth-child(2):hover{
-	color: #081B29;
+	color: #0d0f0e;
 }
 
 .btn-box a:nth-child(2)::before{
@@ -197,7 +197,7 @@ body{
 	left: 0;
 	width: 0;
 	height: 100%;
-	background: #081B29;
+	background: #0d0f0e;
 	z-index: -1;
 	transition: .5s;
 }
